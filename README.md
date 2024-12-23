@@ -29,7 +29,7 @@ pip install selenium schedule webdriver-manager
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Rainbowmindd/AlertsNotif.git
+   git clone https://github.com/Rainbowmindd/SalesBot.git
    ```
 
 2. **Configure email sending data**:
